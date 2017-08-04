@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css?family=Oswald";
 
 body {
+  margin: 10px 0;
   background: url(../images/ape.jpg) bottom center;
   background-size: 41%;
   background-repeat: repeat;
